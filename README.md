@@ -1,4 +1,6 @@
-﻿# RFID Access Control Suite
+﻿# RFID Access Control
+
+![Platform](https://img.shields.io/badge/platform-Arduino-1f6feb) ![Focus](https://img.shields.io/badge/focus-RFID-yellowgreen) ![Status](https://img.shields.io/badge/status-Active-success)
 
 MFRC522-based sketches for secured collection boxes and attendance logging with servo actuation.
 
