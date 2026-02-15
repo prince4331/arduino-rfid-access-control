@@ -1,0 +1,18 @@
+﻿# Build artifacts
+*.elf
+*.hex
+*.eep
+*.bin
+*.o
+*.a
+
+# Temp/system files
+._*
+*.tmp
+*.temp
+*.bak
+Thumbs.db
+.DS_Store
+
+# Editor cache
+.vscode/
